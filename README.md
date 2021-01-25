@@ -1,2 +1,3 @@
 # hello-world
-Developing skills for data science
+Developing data science career. 
+Research in data science field.
